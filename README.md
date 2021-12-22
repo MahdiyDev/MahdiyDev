@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help on the tutorial
 - 📫 How to reach me: https://t.me/mahdiy_dev
 
-<p align="center">
-  <img width='500' src='https://github.com/MahdiyDev/img/blob/master/img.png' />
-</p>
+<img src='https://github.com/MahdiyDev/img/blob/master/img.png' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=MahdiyDev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' />
